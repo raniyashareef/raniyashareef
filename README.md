@@ -1,7 +1,9 @@
 # Raniya Shareef
-🎓 Artificial Intelligence & Data Science Undergrad
-💡 Passionate about data analysis, prompt engineering, and building real-world data pipelines
-📍 Based in Kerala, India | Interning in Abu Dhabi, UAE  
+
+AI & Data Science Undergrad passionate about data analysis, 
+prompt engineering, and building real-world data pipelines.
+
+📍 Kerala, India | Interning in Abu Dhabi, UAE  
 
 ---
 
